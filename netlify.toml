@@ -1,5 +1,76 @@
 [[redirects]]
+## no page equivalent ##
+from = "/services"
+to = "https://earthsmartwater.com"
+status = 301
+
+[[redirects]]
+## no direct page equivalent ##
+from = "/services/plumbing-and-heating"
+to = "https://earthsmartwater.com"
+status = 301
+
+[[redirects]]
+from = "/services/water-treatment-and-testing"
+to = "https://earthsmartwater.com/water-testing-treatment/"
+status = 301
+
+[[redirects]]
+from = "/services/pumps-and-wells"
+to = "https://earthsmartwater.com/well-water-systems-cisterns/"
+status = 301
+
+[[redirects]]
+## no page equivalent ##
+from = "/services/rainwater-harvesting"
+to = "https://earthsmartwater.com/about-us/"
+status = 301
+
+[[redirects]]
+## no page equivalent ##
+from = "/services/new-home-construction"
+to = "https://earthsmartwater.com/about-us/"
+status = 301
+
+[[redirects]]
+from = "/services/nutrient-delivery-system"
+to = "https://earthsmartwater.com/commercial-small-water-systems/"
+status = 301
+
+[[redirects]]
+## no page equivalent ##
+from = "/featured-projects"
+to = "https://earthsmartwater.com/commercial-small-water-systems/"
+status = 301
+
+[[redirects]]
+## no page equivalent ##
+from = "/testimonials"
+to = "https://earthsmartwater.com"
+status = 301
+
+[[redirects]]
+from = "/about-us"
+to = "https://earthsmartwater.com/about-us/"
+status = 301
+
+[[redirects]]
+from = "/contact-us"
+to = "https://earthsmartwater.com/contact-us/"
+status = 301
+
+[[redirects]]
+from = "/book-an-appointment"
+to = "https://earthsmartwater.com/contact-us/"
+status = 301
+
+[[redirects]]
+from = "/request-a-quote"
+to = "https://earthsmartwater.com/contact-us/"
+status = 301
+
+## Catch All for any other url
+[[redirects]]
 from = "/*"
 to = "https://earthsmartwater.com"
 status = 301
-force = false
